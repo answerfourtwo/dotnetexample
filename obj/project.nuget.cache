@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3SgyUrBTuyniuNko+CD75rFN+clt17CtCWKQVRuYix3KbRs2MbzKKoLE/BWqhLB0TWN7FNsTkxjP5QqDLd9HHg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\v-dwellman\\source\\repos\\dotnetexample\\dotnetexample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\v-dwellman\\.nuget\\packages\\microsoft.visualstudio.azure.containers.tools.targets\\1.11.1\\microsoft.visualstudio.azure.containers.tools.targets.1.11.1.nupkg.sha512"
+  ],
+  "logs": []
+}
